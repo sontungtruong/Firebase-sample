@@ -29,3 +29,7 @@ git add.
 git --help
 git add firebase.js
 git add .
+git commit -m "Save Avatar by Storage"
+git branch -M main
+git remote add origin https://github.com/sontungtruong/Firebase-sample.git
+git push -u origin main
